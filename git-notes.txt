@@ -1,0 +1,7 @@
+git init [to initialize repo]
+git add unix_notes.txt [point to the file you want to commit]
+git status [check that git sees your files!]
+git commit -m 'add unix notes' [commits file with user-defined explanation]
+git branch git-notes [create a new branch called "git-notes"]
+git branch [see a list of branches and identify which one you're in]
+git checkout git-notes [move to that branch]
