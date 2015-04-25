@@ -74,3 +74,4 @@
    26  history | head #view the last 10 lines of history
    27  history | head -n 3 # view the last 3 lines of history
    28  history >> moving_around.txt
+   hidden files begin with .
