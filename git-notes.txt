@@ -5,3 +5,5 @@ git commit -m 'add unix notes' [commits file with user-defined explanation]
 git branch git-notes [create a new branch called "git-notes"]
 git branch [see a list of branches and identify which one you're in]
 git checkout git-notes [move to that branch]
+git remote add origin https://....
+git push -u origin master [push the file to the repository on github]
