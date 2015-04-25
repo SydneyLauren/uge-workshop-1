@@ -1,0 +1,76 @@
+    1  git config -- list
+    2  git config --list
+    3  exit
+    4  pwd #Print working directory
+    5  cd Pictures/Work
+    6  cd ~
+    7  pwd
+    8  ls #list contents of directory
+    9  pwd
+   10  history #print history of commands
+   11  ls
+   12  cd ..
+   13  history -less
+   14  history |less
+   15  history | less
+   16  cd Pictures/Work
+   17  ls
+   18  cd #change directory
+   19  cd Pictures/Work
+   20  cd ../..
+   21  history > myhistory
+   22  echo 'this is a file' >> myhistory
+   23  history > moving_around.txt #write history to file
+    1  git config -- list
+    2  git config --list
+    3  exit
+    4  pwd
+    5  cd Pictures/Work
+    6  cd ~
+    7  pwd
+    8  ls
+    9  pwd
+   10  history
+   11  ls
+   12  cd ..
+   13  history -less
+   14  history |less
+   15  history | less
+   16  cd Pictures/Work
+   17  ls
+   18  cd
+   19  cd Pictures/Work
+   20  cd ../..
+   21  history > myhistory
+   22  echo 'this is a file' >> myhistory
+   23  history > moving_around.txt
+   24  subl moving_around.txt
+   25  history >> moving_around.txt # append history to the current file
+    1  git config -- list
+    2  git config --list
+    3  exit
+    4  pwd
+    5  cd Pictures/Work
+    6  cd ~
+    7  pwd
+    8  ls
+    9  pwd
+   10  history
+   11  ls
+   12  cd ..
+   13  history -less
+   14  history |less
+   15  history | less
+   16  cd Pictures/Work
+   17  ls
+   18  cd
+   19  cd Pictures/Work
+   20  cd ../..
+   21  history > myhistory
+   22  echo 'this is a file' >> myhistory
+   23  history > moving_around.txt
+   24  subl moving_around.txt
+   25  history >> moving_around.txt
+   26  history | head #view the last 10 lines of history
+   27  history | head -n 3 # view the last 3 lines of history
+   28  history >> moving_around.txt
